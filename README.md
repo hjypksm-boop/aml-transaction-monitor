@@ -1,4 +1,4 @@
-# Nium AML Transaction Monitor
+# AML Transaction Monitor
 
 A Streamlit dashboard that flags suspicious card activity. The pipeline:
 
