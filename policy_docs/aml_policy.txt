@@ -1,0 +1,36 @@
+AML MONITORING POLICY — NIUM PROGRAMME LEVEL
+
+VELOCITY RULES:
+- Flag any customer with more than 5 transactions in a 1-hour window.
+- Flag customers with more than 20 transactions in a 24-hour period.
+- Escalate accounts showing consistent velocity spikes across multiple days.
+
+STRUCTURING:
+- Flag transactions between $8,500 and $9,999 as potential structuring.
+- Multiple structuring-pattern transactions by the same customer in 7 days require SAR consideration.
+- Structuring is a federal offence under the Bank Secrecy Act and equivalent AML frameworks.
+
+GEOGRAPHY:
+- Flag any transaction to/from FATF blacklisted or grey-listed jurisdictions.
+- Enhanced due diligence required for transactions involving Iran, North Korea, Myanmar, Russia, Syria.
+- Cross-border transactions above $5,000 require additional scrutiny.
+
+MCC CODES:
+- MCC 7995 (gambling) requires enhanced monitoring.
+- MCC 6051 (quasi-cash / crypto) flagged for all tiers below Premium.
+- MCC 4829 (wire transfer) combined with cross-border flag = immediate escalation.
+- Multiple high-risk MCC codes in same session = escalate.
+
+LATE NIGHT ACTIVITY:
+- Activity between 22:00–06:00 representing >30% of total transactions is anomalous.
+- Combine with high-risk MCC or geography for escalation decision.
+
+CUSTOMER TIERS:
+- STANDARD tier customers with HIGH risk scores require immediate review.
+- PREMIUM tier customers require enhanced ongoing monitoring even at MEDIUM risk.
+
+PROGRAMME REVIEW — DELEGATED KYC:
+- Where KYC is delegated to the client, Nium carries programme-level risk.
+- Top-risk customers must be reviewed in programme calls.
+- Client must confirm enhanced KYC was performed for all HIGH risk customers.
+- Client must explain the business purpose of any flagged transaction clusters.
